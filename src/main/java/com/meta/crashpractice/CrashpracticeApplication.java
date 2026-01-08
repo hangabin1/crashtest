@@ -11,6 +11,7 @@ public class CrashpracticeApplication {
         SpringApplication.run(CrashpracticeApplication.class, args);
         System.out.println("코딩어려워");
         System.out.println("코딩잘하고싶어");
+        System.out.println("점심 뭐먹지?");
     }
 
 }
