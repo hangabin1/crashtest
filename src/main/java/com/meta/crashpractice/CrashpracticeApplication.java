@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CrashpracticeApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(CrashpracticeApplication.class, args);
+        System.out.println("코딩어려워");
+        System.out.println("코딩잘하고싶어");
         System.out.println("점심 뭐먹지?");
     }
 
